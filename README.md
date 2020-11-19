@@ -3,22 +3,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge)
 
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vichuge/6-the-next-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=6-the-next-web" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=6-the-next-web" />
+<a href="https://github.com/vichuge/5-Design-Teardown">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=5-Design-Teardown" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=6-the-next-web" />
+<a href="https://github.com/vichuge/4-Building-with-Backgrounds-and-Gradients">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=4-Building-with-Backgrounds-and-Gradients" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=6-the-next-web" />
+<a href="https://github.com/vichuge/PositioningAndFloatingElements">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=PositioningAndFloatingElements" />
 </a>
   </div>
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge" />
-</div>
-
   
 <!--![Victor's stats](https://github-readme-stats.vercel.app/api/wakatime?username=vichuge)-->
