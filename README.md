@@ -13,7 +13,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=6-the-next-web" />
 </a>
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge" />
 </div>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge)
 <!--![Victor's stats](https://github-readme-stats.vercel.app/api/wakatime?username=vichuge)-->
