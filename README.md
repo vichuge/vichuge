@@ -1,6 +1,6 @@
-<div align="center">
-  ![Victor's github stats](https://github-readme-stats.vercel.app/api?username=vichuge&show_icons=true&theme=radical)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vichuge&show_icons=true&theme=radical" />
+</p>
 <div>
 <a href="https://github.com/vichuge/6-the-next-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vichuge&repo=6-the-next-web" />
