@@ -23,13 +23,13 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/victorpachecoflores/">
-        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
+        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23fd1315?style=for-the-badge&logo=linkedin">
     </a>
     <a href="https://twitter.com/Pachecofloresv">
-        <img alt="Follow me" src="https://img.shields.io/twitter/follow/Pachecofloresv?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
+        <img alt="Follow me" src="https://img.shields.io/twitter/follow/Pachecofloresv?color=%23fd1315&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
     </a>
     <a href="mailto:victor.hugo.pacheco.flores@gmail.com">
-        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
+        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23fd1315?style=for-the-badge&logo=Mail.Ru">
     </a>
 </p>
 
