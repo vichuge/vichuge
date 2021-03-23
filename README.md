@@ -1,4 +1,6 @@
+<p align="center">
 ![](./assets/banner.gif)
+</p>
 
 - :man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
 
@@ -6,7 +8,7 @@
         - [x] HTML & CSS (+ Bootstrap);
         - [x] Ruby; 
         - [x] SQL and Database;
-        - [ ] Ruby on Rails;
+        - [x] Ruby on Rails;
         - [ ] JavaScript;
         - [ ] React & Redux;
 
