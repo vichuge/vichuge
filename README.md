@@ -2,11 +2,11 @@
 
 - :man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to become a Full-Stack Web Developer.
 
-      - Currently learning:
+    - Currently learning:
         - [x] HTML & CSS (+ Bootstrap);
         - [x] Ruby; 
         - [x] SQL and Database;
-        - [x] Ruby on Rails;
+        - [ ] Ruby on Rails;
         - [ ] JavaScript;
         - [ ] React & Redux;
 
@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vichuge&show_icons=true&theme=radical" />
-  <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge&hide=javascript,scss&theme=radical&layout=compact)" />
+  <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vichuge&hide=javascript,scss,css&theme=radical&layout=compact)" />
 </p>
 
 <p align="center"> 
