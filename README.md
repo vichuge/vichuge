@@ -7,7 +7,7 @@
         - [x] Ruby; 
         - [x] SQL and Database;
         - [x] Ruby on Rails;
-        - [ ] JavaScript;
+        - [x] JavaScript;
         - [ ] React & Redux;
 
 - I’m always looking for new challenges and oportunities to colaborate!
