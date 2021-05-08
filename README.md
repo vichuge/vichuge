@@ -11,6 +11,7 @@
         - [ ] React & Redux
 
 - I’m always looking for new challenges and oportunities to collaborate!
+- Check my projects portfolio [here!](https://vichuge.github.io/personal_porfolio/)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vichuge&show_icons=true&theme=radical" />
