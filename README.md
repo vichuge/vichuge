@@ -1,6 +1,6 @@
 ![](./assets/banner.gif)
 
-- :man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer
+- :man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
 
     - Currently learning:
         - [x] html & css (+ Bootstrap)
