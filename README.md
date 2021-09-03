@@ -8,7 +8,7 @@
         - [x] sql and Database
         - [x] Ruby on Rails
         - [x] JavaScript
-        - [ ] React & Redux
+        - [x] React & Redux
 
 - I’m always looking for new challenges and oportunities to collaborate!
 - Check my projects portfolio [here!](https://vichuge.github.io/personal_porfolio/)
