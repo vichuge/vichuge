@@ -1,14 +1,13 @@
 ![](./assets/banner.gif)
 
-- :man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
+- :man_technologist: I’m a Full-Stack Web Developer with this full-stack:
 
-    - Currently learning:
-        - [x] html & css (+ Bootstrap)
-        - [x] Ruby
-        - [x] sql and Database
-        - [x] Ruby on Rails
-        - [x] JavaScript
-        - [x] React & Redux
+    - [x] html & css (+ Bootstrap)
+    - [x] Ruby
+    - [x] sql and Database
+    - [x] Ruby on Rails
+    - [x] JavaScript
+    - [x] React & Redux
 
 - I’m always looking for new challenges and oportunities to collaborate!
 - Check my projects portfolio [here!](https://vichuge.github.io/personal_porfolio/)
