@@ -1,6 +1,6 @@
 ![](./assets/banner.gif)
 
-- :man_technologist: I’m a Full-Stack Web Developer with this full-stack:
+- :man_technologist: I’m a Full-Stack Web Developer with this tech-stack:
 
     - [x] html & css (+ Bootstrap)
     - [x] Ruby
