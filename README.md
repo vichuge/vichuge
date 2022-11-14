@@ -16,9 +16,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=vichuge&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vichuge&show_icons=true&theme=radical" />
-</p>
+</p> -->
 
 <p align="center"> 
   You are visitor number: <br>
